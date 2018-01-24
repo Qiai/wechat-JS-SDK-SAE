@@ -2,7 +2,7 @@
 /*
   微信JS SDK SAE特别优化版
   作者：Qiai
-  博客：blog.qiai.info
+  博客：cnbattle.com
   邮箱：liqiai@qq.com
   
   使用说明：使用前请先初始化Memcache，免费版可初始化20MB。
